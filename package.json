@@ -10,6 +10,7 @@
         "spec": "latest",
         "type": "tag"
       },
+      "./"
     ]
   ],
   "_from": "react-native-swipe-out@latest",
@@ -44,6 +45,7 @@
   "_shasum": "971b1d62dbc383892e633da003bfa69a766fe765",
   "_shrinkwrap": null,
   "_spec": "react-native-swipe-out",
+  "_where": "./",
   "author": {
     "name": "Dan Cormier"
   },
